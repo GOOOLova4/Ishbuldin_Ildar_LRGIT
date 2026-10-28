@@ -7,5 +7,5 @@ def two_nums():
         two_nums()
     else:
         print(f"Поздравляю, вы ввели {a} и {b}")
-        print(f"Сумма чисел: {a+b}")
+        print(f"Разность чисел: {a-b}")
 two_nums()
